@@ -23,10 +23,12 @@ Inadequate teaching materials and resources.
 4. Social Barriers
 Stigma and discrimination against slum residents can discourage children from attending school.
 Gender inequality, where girls may face additional barriers like early marriage or safety concerns.
+
 **Technical Stack:**  
 Languages: C++, Java
 Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
+
 **Impact:** 
 1. Enhanced Resource Allocation:
 Ensures resources like food, shelter, and medical aid reach the most vulnerable families efficiently.
