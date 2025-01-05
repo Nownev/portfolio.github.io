@@ -38,7 +38,7 @@ Facilitates the identification of critical needs, enabling NGOs to design target
 Timely and tailored assistance leads to better hygiene, health, and overall living standards in slum areas.
 ## 🚀 **Skills**  
 
-- Proficient in C++, **Java, and **Python.  
+- Proficient in C++. 
 - Strong grasp of Data Structures and Algorithms.  
 - Expertise in problem-solving through advanced DAA techniques.  
 - Experience with project development and team collaboration.  
