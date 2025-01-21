@@ -26,7 +26,7 @@ Gender inequality, where girls may face additional barriers like early marriage 
 
 **Technical Stack:**  
 Languages: C++, Java
-Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
+Algorithms: Dijkstra’s, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
 
 **Impact:** 
@@ -61,7 +61,7 @@ Timely and tailored assistance leads to better hygiene, health, and overall livi
 ### 📋 **Details:**
 
 - **Course Name**: Algorithms Lab 
-- **Course Code**: 24ECAP202  
+- **Course Code**: 24ECAC203 
 - **Name**: Suhani Alatkar
 - **SRN**: 02fe23bci008
 - **Course Instructor**: Priyanka Gavade  
